@@ -2,3 +2,6 @@ Q1: Why might we consider using Git?
 
 Answer: Because it makes it easer to manage different versions of programs among many different people on each of their own systems.
 
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It could be applied to Finance, since many different algorithms and formulas in the real world rely on vast amounts of evolving data.
