@@ -8,4 +8,8 @@ Answer: It could be applied to Finance, since many different algorithms and form
 
 Q3: What is the difference between Merging and Rebasing?
 
-Answer: [Your answer here]
+Answer: Merging is combining one branch of Git to another but keeping both version histories intact, while Rebasing is similiar but will completely wipe one of the histories.
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am most looking forward to learning technical topics related to Data Science, specifically those related to AI models and ML.
