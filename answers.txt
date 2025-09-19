@@ -5,3 +5,7 @@ Answer: Because it makes it easer to manage different versions of programs among
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It could be applied to Finance, since many different algorithms and formulas in the real world rely on vast amounts of evolving data.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [Your answer here]
